@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cgomez29&label=Visitors&color=9782e3&style=flat-square" alt="cgomez29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cgomez29&label=Visitors&color=brightgreen&style=flat-square" alt="cgomez29" /> </p>
 
 ## Languages and Tools
 
